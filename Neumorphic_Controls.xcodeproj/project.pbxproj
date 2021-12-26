@@ -11,6 +11,7 @@
 		91B8F99C2778EDEA0088CCA9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B8F99B2778EDEA0088CCA9 /* ContentView.swift */; };
 		91B8F99E2778EDEB0088CCA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91B8F99D2778EDEB0088CCA9 /* Assets.xcassets */; };
 		91B8F9A12778EDEB0088CCA9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91B8F9A02778EDEB0088CCA9 /* Preview Assets.xcassets */; };
+		91B8F9A82778EE570088CCA9 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B8F9A72778EE570088CCA9 /* Buttons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		91B8F99B2778EDEA0088CCA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		91B8F99D2778EDEB0088CCA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91B8F9A02778EDEB0088CCA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		91B8F9A72778EE570088CCA9 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				91B8F9992778EDEA0088CCA9 /* Neumorphic_ControlsApp.swift */,
 				91B8F99B2778EDEA0088CCA9 /* ContentView.swift */,
+				91B8F9A72778EE570088CCA9 /* Buttons.swift */,
 				91B8F99D2778EDEB0088CCA9 /* Assets.xcassets */,
 				91B8F99F2778EDEB0088CCA9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91B8F9A82778EE570088CCA9 /* Buttons.swift in Sources */,
 				91B8F99C2778EDEA0088CCA9 /* ContentView.swift in Sources */,
 				91B8F99A2778EDEA0088CCA9 /* Neumorphic_ControlsApp.swift in Sources */,
 			);
